@@ -48,3 +48,29 @@ Pastikan Anda telah menginstal compiler C di sistem Anda. Untuk Linux dan Mac, G
 5. Keluar
 Masukkan pilihan: 
 </pre>
+
+## Struktur Program 
+
+<pre>
+   Struktur Program
+Program ini menggunakan struktur data sederhana untuk menyimpan informasi buku. Berikut adalah penjelasan singkat dari setiap bagian program:
+
+1. Deklarasi Struktur dan Variabel:
+typedef struct { ... } Buku; : Struktur untuk menyimpan informasi buku, termasuk ID, judul, dan status apakah buku sedang dipinjam.
+
+2. Fungsi tambahBuku:
+
+Menambahkan buku baru ke perpustakaan dengan meminta pengguna memasukkan judul buku.
+
+3. Fungsi daftarBuku:
+Menampilkan daftar semua buku yang ada di perpustakaan.
+
+4. Fungsi pinjamBuku:
+Memungkinkan pengguna untuk meminjam buku berdasarkan ID buku.
+
+5. Fungsi kembalikanBuku:
+Memungkinkan pengguna untuk mengembalikan buku berdasarkan ID buku.
+Fungsi main:
+
+6. Menampilkan menu utama dan memproses pilihan pengguna untuk memanggil fungsi yang sesuai.
+</pre>
