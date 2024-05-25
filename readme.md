@@ -37,3 +37,14 @@ Pastikan Anda telah menginstal compiler C di sistem Anda. Untuk Linux dan Mac, G
  ```sh
 ./library_management
 ```
+
+## Preview
+<pre style="background-color:black; color:green;">
+   Sistem Manajemen Perpustakaan
+1. Tambah Buku
+2. Daftar Buku
+3. Pinjam Buku
+4. Kembalikan Buku
+5. Keluar
+Masukkan pilihan: 
+</pre>
