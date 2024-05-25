@@ -23,13 +23,17 @@ Pastikan Anda telah menginstal compiler C di sistem Anda. Untuk Linux dan Mac, G
 
 1. **Clone repository ini:**
    ```sh
-   git clone https://github.com/username/library-management-system.git
+   https://github.com/guns-joy/manajemen-perpus.git
    ```
  2. **Masuk ke direktori**
      ```sh
-     cd library-management-system
+     cd manajemen-perpus
      ```
   4. **Kompilasi program**
   ```sh 
  gcc manajemen-perpus.c -o manajemen-perpus
+```
+5. **Jalankan program**
+ ```sh
+./library_management
 ```
