@@ -38,8 +38,8 @@ Pastikan Anda telah menginstal compiler C di sistem Anda. Untuk Linux dan Mac, G
 ./library_management
 ```
 
-## Preview
-<code style="background-color:black; color:red;">
+## Preview menu
+<pre style="color:red;">
    Sistem Manajemen Perpustakaan
 1. Tambah Buku
 2. Daftar Buku
@@ -47,4 +47,4 @@ Pastikan Anda telah menginstal compiler C di sistem Anda. Untuk Linux dan Mac, G
 4. Kembalikan Buku
 5. Keluar
 Masukkan pilihan: 
-</code>
+</pre>
